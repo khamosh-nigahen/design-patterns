@@ -35,3 +35,9 @@ Check Singleton-module.js file in this directory
 Link for more understanding: freecodecamp.org/news/singleton-design-pattern-with-javascript/
 
 */
+
+/* One good example of singleton design pattern is Logger 
+Checkout here:  https://www.freecodecamp.org/news/4-design-patterns-to-use-in-web-development/
+
+
+*/
