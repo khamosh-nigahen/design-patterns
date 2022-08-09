@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns-in-js",
+  "version": "1.0.0",
+  "description": "Design Pattern implementations in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khamosh-nigahen/design-patterns.git"
+  },
+  "author": "Puneet Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khamosh-nigahen/design-patterns/issues"
+  },
+  "homepage": "https://github.com/khamosh-nigahen/design-patterns#readme"
+}
