@@ -41,3 +41,8 @@ Checkout here:  https://www.freecodecamp.org/news/4-design-patterns-to-use-in-we
 
 
 */
+
+/**
+ * There is  a downside of using singleton design pattern that there might be 2 objects who wants to use the 
+ * songleton object at the same time. You should understand when this can happen in ur app
+ */

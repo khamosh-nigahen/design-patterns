@@ -36,3 +36,8 @@ Above link has good examples design pattern
 3) Observer Pattern
 
 
+## Web Dev Simplified channel
+
+https://github.com/WebDevSimplified/Design-Patterns
+
+https://www.youtube.com/watch?v=D4Dja5WSZoA&list=PLZlA0Gpn_vH_CthENcPCM0Dww6a5XYC7f&index=7&t=67s

@@ -25,3 +25,5 @@ bug1.fly() // output: "Now Buggy McFly can fly!"
 addSpeechAbility(bug2)
 bug2.saySmthg() // output: "Martiniano Buggland walks the walk and talks the talk!"
 
+console.log(bug1);
+console.log(bug2);
